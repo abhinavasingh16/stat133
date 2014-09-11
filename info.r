@@ -1,0 +1,5 @@
+name = "Abhinava Singh"
+SID = "23348465"
+email = "asingh12@berkeley.edu"
+github_name = "abhinavasingh16"
+status = "enrolled"
