@@ -5,5 +5,19 @@
     "email": "asingh12@berkeley.edu", 
     "github_name": "abhinavasingh16", 
     "status": "enrolled", 
-    "grades": {}
+    "grades": {
+        "hw1": {
+            "note": "", 
+            "hash": "ae7eab20621f806d8637468d660491f7cf004fb2", 
+            "earned": 0, 
+            "possible": 14, 
+            "penalty": 0, 
+            "parts": {
+                "ex1": {
+                    "possible": 14, 
+                    "earned": 0
+                }
+            }
+        }
+    }
 }
