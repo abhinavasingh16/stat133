@@ -24,7 +24,7 @@ two.plus.two <- 2 + 2
 # load in this data and store it as a variable named <ex1.data>. Set the header
 # argument to TRUE when reading in the csv.
 
-ex1.data <- read.csv('Desktop/stat133/hw1/ex1-data.csv')
+ex1.data <- read.csv('ex1-data.csv')
 
 # The data you just loaded is stored as a data frame object. Your data frame
 # should have one column with the name "x". You can extract a column from a data
