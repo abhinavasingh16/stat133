@@ -1,0 +1,58 @@
+Why is graphics important ---
+
+1. Graphics enters every step of the data analysis cycle - data cleaning, exploration, model checking, and reporting results. 
+2. plots can uncover cool shit in graphics that numerical data cannot. 
+3. It is also a cool communication skill. 
+
+Know your data types before you start data analysis - quantitative data(continuous or discrete data) or qualitative data (ordered or nominal no order gender for example)
+
+case1: Infant Health 
+
+smoking causes low birth weight so we are going to compare smoking with birth weight, hight, weight, income, etc.
+
+Lets use a rug plot - a babies weight is a tick mark and the bolder the tick the greater the frequency of babies at those points. Good for showing distributions but nothing substantial. 
+
+load("insert path") is a good way to load data
+rm(list = ls()) removes everything 
+
+
+We started our analysis by looking at the distribution and visualizing the data with the various graphical libraries that R provides. 
+Histograms are bar charts that show the area of a bar
+
+Look up on wikipedia to see how density is created as well as the varieties of bandwidth family curves. 
+
+Box plot shows the median, the upper and lower quartiles and all of the shit outside of the whiskers are possible outliers. 
+
+
+We want to find thr distribution of the data, the mode is the high density region, long tail means many observations are far from the center, symetry and skewness are distributin of value frm the left and right of the center. 
+
+gaps are places where there ar eno obs. 
+Outliers are unusually small or large data points. 
+
+
+a single hump is unimodal, more than one hump or multiple clusters are ___modal. 
+
+
+Parity is the number of siblings, this variable is numeric but its an integer and the numbers are interesting. It is unlikely to go super high. 
+
+
+
+
+
+
+Case II - College Students
+
+
+sex is qualitiative, grade is qualitiative with ordering. 
+
+Dont use pie charts because visually because humans are not very good at computing areas in a pie chart but rectangles are better. 
+
+
+we often want to better understand a distribution and want to compare the distribution and see how it varies from other groups is by a mosaic plot. 
+
+
+
+
+Case III - East Bay Housing Market
+
+box plots are good at visualizing differences in spread of your data (medians, etc.)
