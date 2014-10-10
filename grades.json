@@ -4,7 +4,7 @@
     "name": "Abhinava Singh", 
     "email": "asingh12@berkeley.edu", 
     "github_name": "abhinavasingh16", 
-    "status": "enrolled", 
+    "status": "unenrolled", 
     "grades": {
         "hw1": {
             "note": "", 
@@ -35,6 +35,37 @@
                     "earned": 12
                 }
             }
+        }, 
+        "hw3": {
+            "note": "", 
+            "hash": "224d357f79cd93c354e9c04f53f70d33ba1c93ed", 
+            "earned": 0, 
+            "possible": 32, 
+            "penalty": 0, 
+            "parts": {
+                "hw3": {
+                    "possible": 16, 
+                    "earned": 0
+                }, 
+                "hw3_fig": {
+                    "possible": 16, 
+                    "earned": 0
+                }
+            }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "1fb98f67378b8ca28f11bb6ffd4f1e0109826471", 
+            "earned": 0, 
+            "possible": 31, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 31, 
+                    "earned": 0
+                }
+            }
         }
-    }
+    }, 
+    "section": "audit"
 }
