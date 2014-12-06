@@ -112,6 +112,36 @@
                     "earned": 0
                 }
             }
+        }, 
+        "hw7": {
+            "note": "", 
+            "hash": "5058811fcee8b13df41de55e8809e80363b59ddc", 
+            "earned": 0, 
+            "possible": 18, 
+            "penalty": 0, 
+            "parts": {
+                "hw7": {
+                    "possible": 10, 
+                    "earned": 0
+                }, 
+                "hw7_plots": {
+                    "possible": 8, 
+                    "earned": 0
+                }
+            }
+        }, 
+        "quiz3": {
+            "note": "", 
+            "hash": "1aaff1e5767dc8fbb608d006db2c8213d324d76d", 
+            "earned": 0, 
+            "possible": 22, 
+            "penalty": 0, 
+            "parts": {
+                "quiz3": {
+                    "possible": 22, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "section": "audit"
